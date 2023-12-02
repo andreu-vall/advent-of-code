@@ -1,0 +1,15 @@
+[submodule "advent-of-code-leaderboard"]
+	path = advent-of-code-leaderboard
+	url = git@github.com:andreu-vall/advent-of-code-leaderboard.git
+[submodule "advent-of-code-2020"]
+	path = advent-of-code-2020
+	url = git@github.com:andreu-vall/advent-of-code-2020.git
+[submodule "advent-of-code-2021"]
+	path = advent-of-code-2021
+	url = git@github.com:andreu-vall/advent-of-code-2021.git
+[submodule "advent-of-code-2022"]
+	path = advent-of-code-2022
+	url = git@github.com:andreu-vall/advent-of-code-2022.git
+[submodule "advent-of-code-2023"]
+	path = advent-of-code-2023
+	url = git@github.com:andreu-vall/advent-of-code-2023.git
