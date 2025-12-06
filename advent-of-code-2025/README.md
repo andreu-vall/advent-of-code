@@ -39,9 +39,9 @@
 
 <tr>
     <td> <a href=src/05.php>src/05.php</a> </td>
-    <td>C</td>
+    <td>PHP</td>
     <td> <code>cat inputs/05.txt | php src/05.php</code> </td>
-    <td>A lot of $$$ but usable</td>
+    <td>A lot of $$$ and global methods but usable</td>
 </tr>
 
 </table>
