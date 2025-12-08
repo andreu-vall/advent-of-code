@@ -10,42 +10,42 @@
 </tr>
 
 <tr>
-    <td> <a href=src/01.py>src/01.py</a> </td>
+    <td> <a href=src/01.py>01.py</a> </td>
     <td>Python</td>
     <td> <code>cat inputs/01.txt | python src/01.py</code> </td>
     <td>Another year still loving Python</td>
 </tr>
 
 <tr>
-    <td> <a href=src/02.js>src/02.js</a> </td>
+    <td> <a href=src/02.js>02.js</a> </td>
     <td>Javascript</td>
     <td> <code>cat inputs/02.txt | node src/02.js</code> </td>
     <td>Disappointing, a lot of hidden NaN related problems</td>
 </tr>
 
 <tr>
-    <td> <a href=src/03.sh>src/03.sh</a> </td>
+    <td> <a href=src/03.sh>03.sh</a> </td>
     <td>Bash</td>
     <td> <code>wsl; cat inputs/03.txt | bash src/03.sh</code> </td>
     <td>Some weird syntaxis but does the job</td>
 </tr>
 
 <tr>
-    <td> <a href=src/04.c>src/04.c</a> </td>
+    <td> <a href=src/04.c>04.c</a> </td>
     <td>C</td>
     <td> <code>gcc src/04.c; cat inputs/04.txt | ./a.exe</code> </td>
     <td>Still quite reliable</td>
 </tr>
 
 <tr>
-    <td> <a href=src/05.php>src/05.php</a> </td>
+    <td> <a href=src/05.php>05.php</a> </td>
     <td>PHP</td>
     <td> <code>cat inputs/05.txt | php src/05.php</code> </td>
     <td>A lot of $$$ and global methods but usable</td>
 </tr>
 
 <tr>
-    <td> <a href=src/08.go>src/08.go</a> </td>
+    <td> <a href=src/08.go>08.go</a> </td>
     <td>Go</td>
     <td> <code>cat inputs/08.txt | go run src/08.go</code> </td>
     <td>Better vibes than the '22 usage</td>
