@@ -20,7 +20,7 @@
     <td> <a href=src/02.js>02.js</a> </td>
     <td>Javascript</td>
     <td> <code>cat inputs/02.txt | node src/02.js</code> </td>
-    <td>Disappointing, a lot of hidden NaN related problems</td>
+    <td>Disappointing, a lot of hidden NaN problems</td>
 </tr>
 
 <tr>
@@ -44,6 +44,18 @@
     <td>A lot of $$$ and global methods but usable</td>
 </tr>
 
+<tr>
+    <td> <a href=src/06.kt>06.kt</a> </td>
+    <td>Kotlin</td>
+    <td> <pre> <code>kotlinc src/06.kt -include-runtime -d 06.jar;</code> <br> <code>cat inputs/06.txt | java -jar 06.jar</code> </pre> </td>
+    <td>No comments?</td>
+</tr>
+
+<tr>
+    <td> <a href=src/07.cs>07.cs</a> </td>
+    <td>C#</td>
+    <td> <pre> <code>dotnet new console -o 07; cd 07;</code> <br> <code>cp ../src/07.cs Program.cs;</code> <br> <code>cat ../inputs/07.txt | dotnet run</code> </pre> </td>
+    <td>Pending comment</td>
 <tr>
     <td> <a href=src/08.go>08.go</a> </td>
     <td>Go</td>
