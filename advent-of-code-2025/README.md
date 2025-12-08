@@ -44,4 +44,11 @@
     <td>A lot of $$$ and global methods but usable</td>
 </tr>
 
+<tr>
+    <td> <a href=src/08.go>src/08.go</a> </td>
+    <td>Go</td>
+    <td> <code>cat inputs/08.txt | go run src/08.go</code> </td>
+    <td>Better vibes than the '22 usage</td>
+</tr>
+
 </table>
