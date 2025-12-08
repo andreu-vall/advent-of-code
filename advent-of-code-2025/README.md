@@ -3,10 +3,10 @@
 <table>
 
 <tr>
-    <td>Day Solution</td>
-    <td>Language</td>
-    <td>Execution</td>
-    <td>Comment</td>
+    <td><strong>Day Solution</strong></td>
+    <td><strong>Language</strong></td>
+    <td><strong>Execution</strong></td>
+    <td><strong>Comment</strong></td>
 </tr>
 
 <tr>
