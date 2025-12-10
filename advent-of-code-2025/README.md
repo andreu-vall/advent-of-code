@@ -56,11 +56,19 @@
     <td>C#</td>
     <td> <pre> <code>dotnet new console -o 07; cd 07;</code> <br> <code>cp ../src/07.cs Program.cs;</code> <br> <code>cat ../inputs/07.txt | dotnet run</code> </pre> </td>
     <td>Pending comment</td>
+
 <tr>
     <td> <a href=src/08.go>08.go</a> </td>
     <td>Go</td>
     <td> <code>cat inputs/08.txt | go run src/08.go</code> </td>
     <td>Better vibes than the '22 usage</td>
+</tr>
+
+<tr>
+    <td> <a href=src/09.rs>09.rs</a> </td>
+    <td>Rust</td>
+    <td> <code>wsl; rustc src/09.rs; cat inputs/09.txt | ./09</code> </td>
+    <td>I'm starting to love Rust</td>
 </tr>
 
 </table>
